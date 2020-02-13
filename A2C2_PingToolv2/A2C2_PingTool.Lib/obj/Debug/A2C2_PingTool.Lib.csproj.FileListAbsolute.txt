@@ -1,0 +1,12 @@
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\bin\Debug\A2C2_PingTool.Lib.dll
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\bin\Debug\A2C2_PingTool.Lib.pdb
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.csproj.CoreCompileInputs.cache
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.dll
+C:\Users\caglar\source\repos\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.pdb
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\bin\Debug\A2C2_PingTool.Lib.dll
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\bin\Debug\A2C2_PingTool.Lib.pdb
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.csproj.CoreCompileInputs.cache
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.dll
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.pdb
+C:\Users\caglar\Desktop\A2C2_PingTool\A2C2_PingTool.Lib\obj\Debug\A2C2_PingTool.Lib.csprojAssemblyReference.cache
